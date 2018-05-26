@@ -1,0 +1,35 @@
+# Draft table of content
+
+## Examples that ship with Solr
+Explain every example that ships with Solr. 
+Based on https://www.outerthoughts.com/2015/11/oh-solr-home-where-art-thou/
+
+### Deep dive into the basic example
+Fields, types, unusued configuration, schemaless mode
+
+### Deep dive into the techproducts example
+Custom fields, browse handler, interesting queries
+
+### Deep dive into the films example
+Configuration with API, interesting queries
+
+## Custom examples
+
+### Simplest learning configuration
+Based on https://github.com/arafalov/solr-presentation-2018-may
+End-to-end example of setup, indexing, and querying
+
+### Creating a user directory
+Expansion of the previous example to focus on names searching
+
+### Additional datasets
+Based on expanded version of https://apachecon.dukecon.org/acna/2018/#/scheduledEvent/7235c1f684eaa9567
+
+### Learning-to-rank dataset
+Demonstrating Solr's Machine Learning implementation
+
+### Graph dataset
+Demonstrating Solr's streaming and graph-processing
+
+### JSON all the way
+Configuring, indexing and querying using JSON
